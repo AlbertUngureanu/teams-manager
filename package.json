@@ -1,0 +1,25 @@
+{
+  "name": "teams",
+  "version": "1.0.0",
+  "description": "sda",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node": "^11.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bizniss/teamsECDssdeE.git"
+  },
+  "author": "Biznis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bizniss/teamsECDssdeE/issues"
+  },
+  "homepage": "https://github.com/Bizniss/teamsECDssdeE#readme"
+}
